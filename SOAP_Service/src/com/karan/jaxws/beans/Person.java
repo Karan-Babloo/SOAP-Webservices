@@ -1,4 +1,4 @@
-package com.journaldev.jaxws.beans;
+package com.karan.jaxws.beans;
 
 import java.io.Serializable;
 

@@ -1,10 +1,10 @@
-package com.journaldev.jaxws.service;
+package com.karan.jaxws.service;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-import com.journaldev.jaxws.beans.Person;
+import com.karan.jaxws.beans.Person;
 
 public class PersonServiceImpl implements PersonService {
 

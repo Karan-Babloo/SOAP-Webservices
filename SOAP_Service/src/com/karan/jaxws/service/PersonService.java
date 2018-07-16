@@ -1,6 +1,6 @@
-package com.journaldev.jaxws.service;
+package com.karan.jaxws.service;
 
-import com.journaldev.jaxws.beans.Person;
+import com.karan.jaxws.beans.Person;
 
 public interface PersonService {
 
